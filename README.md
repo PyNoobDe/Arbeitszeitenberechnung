@@ -1,2 +1,2 @@
 # Arbeitszeitenberechnung
-Toll zur Berechnung der Arbeitszeiten
+Tool zur Berechnung der Arbeitszeiten: www.pynoob.de
